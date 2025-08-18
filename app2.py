@@ -19,5 +19,5 @@ print("Hello, World!")
 print("Hello, World!")
 print("Hello, World!")
 print("Hello, World!")
-print("Hello, World! 12222")122
+print("Hello, World! 12222")
 
